@@ -1,2 +1,3 @@
-#Game untuk EmulatorJS
-<h1>game<\h1>
+Game untuk EmulatorJS
+Anda dapan mencoba game ini di EmulatorJS
+LINK: https://demo.emulatorjs.org/
